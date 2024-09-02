@@ -66,11 +66,11 @@ six==1.16.0
 smmap==5.0.0
 streamlit==1.26.0
 tenacity==8.2.3
-tensorboard==2.12.3
-tensorboard-data-server==0.7.1
+tensorboard==2.13.0
+tensorboard-data-server==0.8.0
 tensorflow==2.13.0
-tensorflow-estimator==2.12.0
-tensorflow-io-gcs-filesystem==0.31.0
+tensorflow-estimator==2.13.0
+tensorflow-io-gcs-filesystem==0.33.0
 termcolor==2.3.0
 toml==0.10.2
 toolz==0.12.0
@@ -85,3 +85,4 @@ watchdog==3.0.0
 Werkzeug==2.3.7
 wrapt==1.14.1
 zipp==3.16.2
+
